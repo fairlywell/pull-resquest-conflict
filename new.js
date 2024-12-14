@@ -1,1 +1,1 @@
-console.log('new 2')
+console.log('nhanh 1');
